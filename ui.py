@@ -73,7 +73,7 @@ class Window(QWidget):
         for i in range(3):
             for j in range(3):
                 self.btns[i][j].setEnabled(False)
-
+# githubdan ozgartirdim
 
     def check_win(self):
         
