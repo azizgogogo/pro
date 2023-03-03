@@ -132,3 +132,5 @@ app = QApplication([])
 win = Window()
 win.show()
 sys.exit(app.exec_())
+
+# push qil
